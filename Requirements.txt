@@ -1,0 +1,8 @@
+streamlit
+langchain
+qdrant-client
+sentence-transformers
+supabase
+python-dotenv
+google-generativeai
+
